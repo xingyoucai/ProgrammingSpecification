@@ -6,5 +6,9 @@
 Php 
 
 [Python 风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/contents/)
+
 [Shell 风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/google-shell-styleguide/contents/)
-Golang
+
+[Effective Go](https://golang.org/doc/effective_go.html)
+
+[Go Styleguide](https://github.com/bahlo/go-styleguide)
